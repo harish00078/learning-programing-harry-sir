@@ -1,6 +1,8 @@
 # object oriented programming:
 # 1.> solving a problem by creating objects is one of the most popular approaches in programming.this is called object oriented programming.
 # 2.> this concept focuses on using reusable code.
+# defination of object oriented programming.
+# In Python, object-oriented Programming (OOPs) is a programming paradigm that uses objects and classes in programming. It aims to implement real-world entities like inheritance, polymorphisms, encapsulation, etc. in the programming. The main concept of OOPs is to bind the data and the functions that work on that together as a single unit so that no other part of the code can access this data. 
 
 
 # write the code in this way is called = Procedural Programming
@@ -38,3 +40,13 @@ isnumeric,isfloatorint --->camelcase'''
 
 #object:
 # 1> an object is an instantiation of  a class . when class is defined, the template is defined . memory is allocated only after object instantiation.
+# 2> objects of a given class can invoke the methods available to it without revaling the implementation details to the user. = ab
+# abstraction and encapsulation.
+
+
+# modelling a problem in oops.
+# we identify the following in our problem 
+# noun ->class ->employee
+# adjective -> attributes -> name,age,salary
+# verbs -> methods -> getsalary(),increment().
+

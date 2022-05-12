@@ -40,7 +40,7 @@ isnumeric,isfloatorint --->camelcase'''
 
 #object:
 # 1> an object is an instantiation of  a class . when class is defined, the template is defined . memory is allocated only after object instantiation.
-# 2> objects of a given class can invoke the methods available to it without revaling the implementation details to the user. = ab
+# 2> objects of a given class can invoke the methods available to it without revaling the implementation details to the user.
 # abstraction and encapsulation.
 
 
@@ -50,3 +50,24 @@ isnumeric,isfloatorint --->camelcase'''
 # adjective -> attributes -> name,age,salary
 # verbs -> methods -> getsalary(),increment().
 
+
+#types of attributes:
+#1.> class attributes.
+#2.> instance attributes.
+
+#1.> class attributes:
+# an attribute that belongs to the class rather than a particular objects.
+# example of class attributes:
+# class employee:
+    # company = "google"  --> [specific to each class]
+    
+    # harry = employee()  --> object instantiation
+    # harry.company
+    # employee.company = "youtube"  --> changing class attributes
+    
+    
+#2.> instance(object) attributes:
+# an attributes that belong to the instance(object)assuming the class from the previous example:
+# example of the instance attributes:
+#class employee:
+   # company

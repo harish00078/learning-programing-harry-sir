@@ -13,7 +13,7 @@
 
 
 # instance attribute example.
-from cgitb import html
+
 
 
 class employee:
@@ -29,5 +29,5 @@ print(rajni.salary)
 # note for the instance attributes :
 # instance attributes takes prefrence over class attributes during assignment and retreival.
 
-# harry attributes --> (1) is attributes1 persent in object?
-#                      (2) is attributes1 persent in class?
+# check attributes --> firstly check is attributes persent in object? if we did not have attributes in object then program will automatically jump on the class attributes.
+#                      secondly check is attributes persent in class?

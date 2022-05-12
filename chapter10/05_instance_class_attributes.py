@@ -1,7 +1,3 @@
-from fcntl import F_GETPATH
-from os import get_handle_inheritable
-
-
 class employee:
     company = "google"
     salary = 100

@@ -11,7 +11,7 @@ rajni = employee()
 harry.salary = 45 # In oops attributes firstly detect the instance attributes if we did not have instance attributes then the program will automatically shifted to the class attributes.
 print(harry.salary)
 print(rajni.salary)
-# (rajni.address) will through the error beacuse this is not present in the instance class 
+# (rajni.address) will through the error beacuse this is not present in the instance or class 
 # print(rajni.address) 
 
 

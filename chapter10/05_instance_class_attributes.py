@@ -16,7 +16,7 @@ harry.salary = 45 # In oops attributes firstly detect the instance attributes if
 print(harry.salary)
 print(rajni.salary)
 # (rajni.address) will through the error beacuse this is not present in the instance class 
-print(rajni.address) 
+# print(rajni.address) 
 
 
 

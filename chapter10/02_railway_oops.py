@@ -10,6 +10,3 @@ harrysapplication.name = "harry"
 harrysapplication.train = "rajdhani express"
 harrysapplication.printdata()
 
-
-
-     

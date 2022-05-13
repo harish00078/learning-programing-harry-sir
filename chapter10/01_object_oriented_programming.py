@@ -71,3 +71,17 @@ isnumeric,isfloatorint --->camelcase'''
 # example of the instance attributes:
 #class employee:
    # company
+   
+   
+   
+# 'self' parameter :
+
+# 1.> self refers to the instance of the class
+# 2.> it is automiatically passed with a function call from an object.
+
+# static method:
+# 1.> sometimes we need a function that does not use the self parameter. 
+
+
+# constructor:
+#  1.> __init__() constructor;

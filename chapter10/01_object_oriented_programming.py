@@ -85,3 +85,7 @@ isnumeric,isfloatorint --->camelcase'''
 
 # constructor:
 #  1.> __init__() constructor;
+#  __init__() is a special method which is first run as soon as the object is created.
+# __init__() method is also know as constructor.
+# it takes self argument and can also take further arguments.
+
